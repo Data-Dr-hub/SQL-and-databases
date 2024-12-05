@@ -1,4 +1,4 @@
-# Turing College Project: SQL and databases 
+# SQL and databases (Bigquery)
 This is an hands-on real world project I carried out and reviewed with an SQL Expert **Tomas Rimkus**.
 # Tasks:
 ## 1. An overview of Products
